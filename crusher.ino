@@ -1,5 +1,3 @@
-//this is a test to see some stuff
-
 void setup() {
   // put your setup code here, to run once:
 
